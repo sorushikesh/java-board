@@ -1,4 +1,4 @@
-package com.java_board.core.leetCode;
+package com.javaBoard.core.leetCode;
 
 import lombok.extern.slf4j.Slf4j;
 
